@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### readmedi 👋
+My GitHub just only use to archive my study and it's maybe useless and boring to you. So please don't disparage me!
+Thanks for your visiting! 👉👈
 <!--
 **nh4ttruong/nh4ttruong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
