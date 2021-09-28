@@ -1,4 +1,4 @@
-### readmedi 👋
+### about 👋
 My GitHub just uses to archive my study and it's maybe useless and boring to you. So please don't disparage me!
 Thanks for your visiting! 👉👈
 <!--
