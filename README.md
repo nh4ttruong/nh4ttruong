@@ -1,7 +1,8 @@
 ![](images/gif.gif)
-### about 👋
-My GitHub just uses for archive my study and it's maybe useless and boring to you. So please don't disparage me becuz i'll scare :( !
-### overview
-View at [nh4ttruong's zone](https://nh4ttruong.github.io)
+### the say 👀
+If you have nothing, you have to try your best. This Github maybe useless and boring to you but once you visit here, please don't disparage becuz i'll scare :( !
 
-Thanks for your visiting! 👉👈
+### me?
+You can drop in 👉 [nh4ttruong's zone](https://nh4ttruong.github.io)
+
+Thanks for your visiting 🥳
