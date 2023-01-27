@@ -1,6 +1,6 @@
 ![](images/gif.gif)
 
-`DO more, GET more`
+`do moreee, get moreee`
 
 ## about me
-Visit [thereeee](https://nh4ttruong.github.io)
+come here, come [here](https://nh4ttruong.github.io)
