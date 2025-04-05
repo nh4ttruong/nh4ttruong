@@ -18,14 +18,9 @@ MOODS=("😎 Vibes: Immaculate" "🥲 Mood: Debugging life" "🤡 Feeling: Deplo
 MOOD=${MOODS[$RANDOM % ${#MOODS[@]}]}
 echo -e "$MOOD\n"
 
-# Step 4: Run good vibes
 echo -e "✨ Running good_vibes.sh...\n"
 echo "export VIBES=maximum"
 echo "alias burnout='echo nah fam, self-care comes first'"
-
-# Step 5: Affirmations
 echo -e "\n💬 You’re doing great, even if your kube cluster says otherwise."
-
 echo "🎉 Happiness.sh completed successfully. Go slay the day 🚀"
-
 echo -e "\nWait, wait... You don't forget:\n$(curl -s -H 'Accept: text/plain' https://icanhazdadjoke.com/)"
