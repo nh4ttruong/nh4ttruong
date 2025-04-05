@@ -2,11 +2,13 @@
 
 ## Hello deree?
 
-Thanks for found me - **Nhật Trường**, a System/DevOps Engineer, engages in programming, software development, system operations, DevOps practices, infrastructure, and various other technological. I'm passionate about technology, education, and personal developmen. I'm so happy to share my experiences with others!
+Yo welcome!
+You're about to dive headfirst into my tech brain dump-expect spicy takes on best practices, ✨random notes✨, shortcut scripts I probably forgot I wrote, and vibes-only guidelines.
 
-4me, just `"Do more to get more... and a lot of coffee."` for happi life ^^
+Also, pro tip of the day: sip ☕ daily or risk system failure. `Happiness.sh` needs caffeine to run without privillege permission ^^
+Stay hydrated, stay deployin' 💻🚀
 
-## Found Me At
+## Also Found Me At
 Looking for someone who can juggl...
 
 [![Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://nh4ttruong.me)
