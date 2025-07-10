@@ -4,7 +4,7 @@
 
 I'm [**Nhật Trường**](https://www.nh4ttruong.me/?utm_source=github&utm_medium=referral&utm_campaign=profile), a VibeOps Engineer. Nice to have you today, get ready to dive into my tech dumppp
 
-Oh wait, make sure to take a <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" alt="Coffee" width="20" height="20" /> daily and run [`Happiness.sh`](https://raw.githubusercontent.com/nh4ttruong/nh4ttruong/refs/heads/main/Happiness.sh) on wake-up — no privilege permissions needed ^^
+Oh wait, make sure to take a <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" alt="Coffee" width="20" height="20" /> daily and run [`Happiness.sh`](https://nh4ttruong.github.io/motd) on wake-up — no privilege permissions needed ^^
 
 Stay hydrated, keep deployin', but don't do on Friday <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="20" height="20" />
 
