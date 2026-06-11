@@ -12,5 +12,6 @@ Stay hydrated, keep deployin', but don't do on Friday <img src="https://raw.gith
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Ewe.png" alt="Ewe" width="15%" />
 
+[![GitHub User's stars](https://img.shields.io/github/stars/nh4ttruong?style=social&link=https%3A%2F%2Fgithub.com%2Fnh4ttruong)](https://github.com/nh4ttruong)
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fnh4ttruong.me%2F%3Fref%3Dgithub.com)](https://nh4ttruong.me/?ref=github.com)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/truongtbn?ref=github.com)
